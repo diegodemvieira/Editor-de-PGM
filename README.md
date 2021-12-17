@@ -71,10 +71,13 @@ aux1 = 11
 
 Versão Trabalho AEDS II - Ponteiros, manipulação de imagem, criação de 
 funções e cabeçalho
+
 Alunos:
 
 André Augustho Sarti Trindade Silva - 2021.1.08.001
+
 Augusto Vieira de Oliveira - 2021.1.08.002
+
 Diego de Magalhães Vieira - 2021.1.08.004
 
 --------------------------------------------------------------------------------------
