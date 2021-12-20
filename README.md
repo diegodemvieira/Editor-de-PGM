@@ -10,7 +10,8 @@ Elaboração do algorítmo a partir das orientações em aula.
 
 Um unico vetor, em ordem, com toda a matriz imagem.
 
- - Variáveis -
+ - Variáveis - 
+
 x - número de linhas
 y - número de colunas
 i - posiçao atual do vetor, um "ponteiro" do nosso progama.
@@ -47,7 +48,7 @@ disso, vai pulando de linha em linha até o final do arquivo. (konty)
 4   9  14            5 + (1 * 5) = 10
 3   8  13            5 + (2 * 5) = 15
 2   7  12            4 + (0 * 5) = 4
-1   6  11            4 + (1 * 5) = 9     (...)
+1   6  11            4 + (1 * 5) = 9   (...)
 _____________________________
 
 
@@ -119,7 +120,7 @@ Esse comando aumenta a memória disponível utilizada pelo compilador.
 
 Adição do menu de seleção de opções. 
 
-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 atualização 16/12/2021 - Para usuários VS Code
 
 Das versões anteriores resta apenas o algorítmo. 
